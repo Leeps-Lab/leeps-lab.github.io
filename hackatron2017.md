@@ -29,8 +29,10 @@ Most importantly, the source code for every project will be made available right
 ### A collection of input tools, oriented on the z-Tree layouts. We compare "standard" oTree methods with customizable CSS Style.
 **Franziska Then, Michel Tolksdorf, Thibaud Pierrot, and Max Lutz**
 
-### Slider Task
+### Real Effort Slider Task
 **Christian König**
+
+<https://github.com/chkgk/slider_task>
 
 ### Slider with Immediate Visual Feedback and no initial position
 **Holger Gerhardt**
