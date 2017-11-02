@@ -4,20 +4,20 @@
 @import "{{ site.theme }}";
 
 body {
-	font-size: 1.6em;
+	font-size: 1em;
 	text-rendering: optimizeLegibility;
 }
 
 h1 {
-	font-size: 1.5em;
-}
-
-h2 {
 	font-size: 1.4em;
 }
 
+h2 {
+	font-size: 1.3em;
+}
+
 h3 {
-	font-size: 1.125em;
+	font-size: 1.1em;
 }
 
 h4 {
@@ -30,4 +30,16 @@ h5 {
 
 h6 {
 	font-size: 0.625em;
+}
+
+.wrapper {
+	width: 860px;
+}
+
+section {
+	width: 800px;
+}
+
+nav {
+	left: 42%;
 }
