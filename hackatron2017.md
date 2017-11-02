@@ -2,7 +2,7 @@
 
 The first oTree Hack-A-Thon took place at the Wissenschaftszentrum Berlin für Sozialforschung (WZB), October 26-29! This four day event was a joint effort of the LEEPS lab and WZB, organized by Dan Friedman, Steffen Huck, Gebhard Glock, Johannes Leutgeb, and your author, James Pettit.
 
-I'm very proud to report we had 8 projects presented for the awards ceremony. Three awards were given - Most Original, Best Design, and Best Overall. Awards were judged by consensus of the participants with a democratic vote.
+I'm very proud to report we had 9 projects presented for the awards ceremony. Three awards were given - Most Original, Best Design, and Best Overall. Awards were judged by consensus of the participants with a democratic vote.
 
 Most importantly, the source code for every project will be made available right here to serve as examples and enable future collaboration throughout the oTree community.
 
