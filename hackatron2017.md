@@ -21,7 +21,7 @@ Most importantly, the source code for every project will be made available right
 
 **Curtis Kephart**
 
-https://github.com/EconomiCurtis/otree_realtime_bubbles
+[](https://github.com/EconomiCurtis/otree_realtime_bubbles)
 
 ### Clicking Paradigm
 **David Poensgen and Patrick Schneider**
